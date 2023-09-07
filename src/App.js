@@ -29,7 +29,7 @@ const onClickHandlerCredite = () => {
 
       <div>BankReducer</div>
       <div>
-        <button onClick={onClickHandlerDec}>-</button>WithDraw <button onClick={onClickHandlerInc}>+</button></div>
+        <button onClick={onClickHandlerDec}>-</button>WithDraws.. <button onClick={onClickHandlerInc}>+</button></div>
 
         <div>AccountReducer</div>
       <div>
